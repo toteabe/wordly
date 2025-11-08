@@ -1,6 +1,6 @@
 **WORDLY**
 
-<img src="./public/ogoVdM.jpg"/>
+<img src="./public/logoVdM.jpg"/>
 
 node wordly.js
 
