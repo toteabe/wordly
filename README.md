@@ -1,6 +1,7 @@
 **WORDLY**
 
-<img src="https://github.com/toteabe/wordly/blob/main/public/LogoVdM.jpg/>
+![IES Vega de Mijas](https://github.com/toteabe/wordly/blob/main/public/LogoVdM.jpg?raw=true "IES Vega de Mijas")
+
 
 node wordly.js
 
