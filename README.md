@@ -1,7 +1,7 @@
 **WORDLY**
 
 ![IES Vega de Mijas](https://github.com/toteabe/wordly/blob/main/public/LogoVdM.jpg?raw=true "IES Vega de Mijas")
-![toteabe](https://github.com/toteabe/wordly/blob/main/public/gandalf_tuxedo.png?raw=true "toteabe")
+<img src="https://github.com/toteabe/wordly/blob/main/public/gandalf_tuxedo.png?raw=true" width="20%"/>
 
 node wordly.js
 
